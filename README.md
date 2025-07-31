@@ -27,7 +27,7 @@ I'm a passionate **Mobile Application Developer** with **3+ years of Flutter dev
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelghaniDjedidi2001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelghaniDjedidi2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" alt="GitHub streak stats"/>
 </div>
 
 ## 🛠️ Technical Arsenal
