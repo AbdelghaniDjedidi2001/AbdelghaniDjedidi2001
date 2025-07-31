@@ -110,13 +110,13 @@ I'm a passionate **Software Developer** from Algeria 🇩🇿, dedicated to craf
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelghaniDjedidi2001&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true" alt="Activity Graph"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdelghaniDjedidi2001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </div>
 
 <div align="center">
