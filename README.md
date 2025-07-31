@@ -16,7 +16,7 @@ I'm a passionate **Software Developer** from Algeria 🇩🇿, dedicated to craf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelghaniDjedidi2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="180" alt="GitHub stats"/>
+  <img src="Y2lkPTc5MGI3NjExbnJ6YWMxbHBrY2trOW5zMXg4ZGZmOW5pMmI2Y2dyejhqbmp5MDg5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw" height="180" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelghaniDjedidi2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top languages"/>
 </div>
 
