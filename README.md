@@ -16,12 +16,12 @@ I'm a passionate **Software Developer** from Algeria 🇩🇿, dedicated to craf
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelghaniDjedidi2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelghaniDjedidi2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelghaniDjedidi2001&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak stats"/>
 </div>
 
 ## 🛠️ Tech Stack
