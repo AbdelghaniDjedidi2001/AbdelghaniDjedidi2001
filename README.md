@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- keep your animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" alt="Coding animation"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Coding animation"/>
 </div>
 
 <div align="center">
