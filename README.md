@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- keep your animation -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI1OTIyMzQsIm5iZiI6MTc3MjU5MTkzNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA0VDAyMzg1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiN2RhMDUzOTNiNzBlY2FlZDRmNzgyZmJjYzE4MDEwYzdmYWIwM2ViZjU3MjkwZTVhYWVkNGQ2YjBlMTNhZDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.oONnBgft3YtOdaegWPG9gifMDwdsvGf7iD8cL5tItgU" alt="Coding animation"/>
+  <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI2MzQ0NzcsIm5iZiI6MTc3MjYzNDE3NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA0VDE0MjI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTliZjI0Mjc1OTYzMmFhNTM3YTQyNmVjODRmZWM1OTNmOTI0NzI3ZmRjNjUyNjI5MGIwMGJmMzdjYjBiZjZiNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZiGCeR0_qAjFU96WrWbei5lWamG8on_bVnxemVz-agU" alt="Coding animation"/>
 </div>
 
 <div align="center">
@@ -113,26 +113,6 @@ I also ship with **CI/CD** (GitHub Actions, Fastlane, Firebase App Distribution)
 - 🤖 AI-assisted dev workflows (prompting for refactors/tests/docs — no secrets/PII)
 
 ---
-
-## 🌟 Featured Work
-
-<div align="center">
-  <a href="https://github.com/AbdelghaniDjedidi2001/flutter-bloc-with-freezed">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelghaniDjedidi2001&repo=flutter-bloc-with-freezed&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/AbdelghaniDjedidi2001/fastApi-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelghaniDjedidi2001&repo=fastApi-project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/SATR-ATM/elFulk-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SATR-ATM&repo=elFulk-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/SATR-ATM/introduce-yourself">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SATR-ATM&repo=introduce-yourself&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
 
 <details>
   <summary><b>📌 Highlights (tap to expand)</b></summary>
