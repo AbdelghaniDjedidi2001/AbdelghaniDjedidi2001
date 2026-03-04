@@ -1,145 +1,165 @@
 # Hi there! 👋 I'm Abdelghani Djedidi
 
 <div align="center">
+  <!-- keep your animation -->
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400" alt="Coding animation"/>
 </div>
 
-## 🚀 Mobile Application Developer from Algeria
+<div align="center">
 
-I'm a passionate **Mobile Application Developer** with **3+ years of Flutter development experience**, specializing in cross-platform applications and clean architecture. Currently pursuing my Master's in Computer Science while building innovative mobile solutions.
+  <!-- animated typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&center=true&vCenter=true&width=650&lines=Flutter+Developer+%7C+Mobile+Engineer;3%2B+years+shipping+cross-platform+apps;BLoC%2FCubit+%7C+GoRouter+%7C+Dio%2FRetrofit;CI%2FCD+%7C+Fastlane+%7C+GitHub+Actions;Open-Source+Lead+%26+Mentor+%40+SATR-ATM" alt="Typing SVG" />
+
+  <br/>
+
+  <!-- badges -->
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BLoC-%2300A98F.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastlane-%2300F200.svg?style=for-the-badge&logo=fastlane&logoColor=white" />
+
+</div>
+
+---
+
+## 🚀 Flutter Developer • Mobile Engineer (Algiers, Algeria)
+
+I build **production-grade Flutter apps** with a focus on **feature-first architecture**, scalable **state management (Bloc/Cubit)**, and **reliable networking** (Dio/Retrofit + interceptors + token refresh).  
+I also ship with **CI/CD** (GitHub Actions, Fastlane, Firebase App Distribution) and care about **observability** (Crashlytics, Performance, Analytics).
 
 <div align="center">
-  
-  🔭 **Currently working on:** AI-powered healthcare applications & startup projects  
-  🌱 **Learning:** Advanced Flutter architectures, Machine Learning, and Cloud technologies  
-  🎓 **Education:** Master's in Computer Science (Expected 2025)  
-  🏆 **Achievement:** 98% accuracy ML model for healthcare audio classification  
-  🚀 **Startup:** DZPARTS - Official startup label recipient  
-  📍 **Location:** Tebessa, Algeria  
-  
+
+🔭 **Now:** Building & shipping a production e-commerce operations app @ **Ayor**  
+🧭 **Architecture:** Feature-first + Clean Architecture + DI (GetIt/Injectable)  
+🧪 **Quality:** PR-first workflow, code reviews, lint/test gates, scalable modules  
+🧠 **Research:** Cough-based disease classification (ML) — thesis work  
+🌍 **Open Source:** Project Lead & Mentor @ **SATR (SATR-ATM)**  
+
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelghaniDjedidi2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelghaniDjedidi2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelghaniDjedidi2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="175" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelghaniDjedidi2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="Top languages"/>
 </div>
-
-## 🛠️ Technical Arsenal
-
-### 📱 Mobile Development
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" title="Flutter - Primary Framework"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="Dart" title="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50" alt="Kotlin" title="Kotlin"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50" alt="Android" title="Android"/>
-</div>
-
-**Specializations:**
-- 🏗️ Clean Architecture & SOLID Principles
-- 🔄 State Management: BLoC, Riverpod, Provider, Freezed
-- 🎨 Responsive & Adaptive UI Design
-- 🧪 Test-Driven Development (TDD)
-- 🔌 Platform Channels & Custom Widgets
-
-### ☁️ Backend & Cloud
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" title="Firebase - Full Suite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="Google Cloud" title="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" title="Python - FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" title="Node.js"/>
-</div>
-
-**Firebase Expertise:**
-- 🔐 Authentication & Security
-- 🗄️ Firestore & Realtime Database
-- 📱 FCM & Push Notifications
-- 📊 Analytics & Crashlytics
-- ⚡ Cloud Functions & Hosting
-
-### 🧠 AI & Machine Learning
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python ML" title="Python for ML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="TensorFlow" title="TensorFlow"/>
-</div>
-
-**ML Projects:**
-- 🏥 Healthcare Audio Classification (98% Accuracy)
-- 🤖 AI Automations & Agents
-- 📈 Data Analysis & Model Training
-
-### 🔧 Development Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="Android Studio" title="Android Studio"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" title="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" title="Docker"/>
-</div>
-
-## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/AbdelghaniDjedidi2001/Guided-Realms-of-Modular-Flutter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelghaniDjedidi2001&repo=dzparts&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelghaniDjedidi2001&theme=tokyonight&hide_border=true&background=0D1117" height="175" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelghaniDjedidi2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophies"/>
+</div>
+
+---
+
+## 🧰 Technical Arsenal
+
+### 📱 Mobile (Flutter)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="46" alt="Flutter" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="46" alt="Dart" title="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="46" alt="Kotlin" title="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="46" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="46" alt="Android" title="Android"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="46" alt="iOS" title="iOS"/>
+</div>
+
+**Core strengths**
+- 🏗️ Feature-first / Clean Architecture, Repository Pattern, Modularization  
+- 🔄 State management: **Bloc/Cubit**, Riverpod, Provider, Freezed  
+- 🧭 Navigation: **GoRouter** (nested routing / shell routes), deep linking  
+- 🌍 Localization & UX: Easy Localization, theming, responsive/adaptive UI  
+- 🔌 Platform channels, custom widgets, accessibility awareness  
+
+### 🔐 Networking & Security
+- 🌐 Dio + Retrofit, interceptors, typed result wrappers  
+- 🔑 OAuth2/JWT patterns, secure storage, single-flight token refresh  
+- 🧱 Request/response logging hygiene, environment-based configs (flavors/schemes)
+
+### ☁️ Firebase / Mobile Services
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="46" alt="Firebase" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="46" alt="GCP" title="Google Cloud"/>
+</div>
+
+- 🔥 Auth • FCM • Crashlytics • Performance • Analytics • App Distribution  
+- 🧩 Remote Config (familiar) • reCAPTCHA Enterprise • In-App Purchases
+
+### ⚙️ DevOps & Tooling
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="46" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="46" alt="GitHub" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="46" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="46" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="46" alt="Android Studio" title="Android Studio"/>
+</div>
+
+- ✅ GitHub Actions • Fastlane • Flutter flavors • iOS schemes/xcconfig  
+- 🧱 Gradle Kotlin DSL • Melos (mono-repos) • Shorebird (familiar)
+
+### 🧠 AI / ML (Applied)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="46" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="46" alt="TensorFlow" title="TensorFlow"/>
+</div>
+
+- 🏥 Audio disease classification (cough-based) — research prototype  
+- 🤖 AI-assisted dev workflows (prompting for refactors/tests/docs — no secrets/PII)
+
+---
+
+## 🌟 Featured Work
+
+<div align="center">
+  <a href="https://github.com/AbdelghaniDjedidi2001/flutter-bloc-with-freezed">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelghaniDjedidi2001&repo=flutter-bloc-with-freezed&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/AbdelghaniDjedidi2001/flutter-bloc-boilerplate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelghaniDjedidi2001&repo=flutter-bloc-boilerplate&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/AbdelghaniDjedidi2001/fastApi-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdelghaniDjedidi2001&repo=fastApi-project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 
-### 🚗 DZPARTS - Auto Parts & Repair Platform
-**🏆 Official Startup Label | Apr 2023 – Jul 2023**
-- Revolutionary mobile app connecting car owners with repair services
-- Features: Real-time shop locator, parts ordering, service scheduling
-- Tech Stack: Flutter, Firebase, Google Maps API, Custom UI
-- Impact: Streamlined automotive service ecosystem in Algeria
+<div align="center">
+  <a href="https://github.com/SATR-ATM/elFulk-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SATR-ATM&repo=elFulk-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/SATR-ATM/introduce-yourself">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SATR-ATM&repo=introduce-yourself&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
 
-### 🏗️ Flutter BLoC Architecture Boilerplate
-**⚡ Production-Ready Template | Mar 2024 – Apr 2024**
-- Clean architecture template with flutter_bloc & freezed
-- 50% reduction in boilerplate code
-- Automated code generation with build_runner
-- Scalable, testable, and maintainable structure
+<details>
+  <summary><b>📌 Highlights (tap to expand)</b></summary>
 
-### 🏥 AI Healthcare Audio Classification
-**🧠 Master's Thesis Project | 2024**
-- Machine learning model for cough-based health detection
-- Achieved 98% accuracy in audio classification
-- Technologies: Python, TensorFlow, Flutter mobile interface
-- Application: Practical AI implementation in healthcare diagnostics
+- **Ayor (Nov 2025 – Present):** Production Flutter e-commerce ops app (funnels, products, orders, analytics, subscriptions), strong release & reliability practices.  
+- **SATR-ATM (Dec 2025 – Present):** Lead & mentor an OSS initiative (governance, roadmap, issue triage, PR reviews, onboarding).  
+- **Freelance (2022 – 2024):** 10+ mobile/backend deliveries across fintech, healthcare, e-commerce.  
+- **Hackathons:** Winner (SafarTech Track 2025) + Participant (JunctionXAlgiers 2025).  
 
-## 🎯 Professional Interests
+</details>
 
-```
-🚀 Mobile App Development & Startup Ecosystem
-🤖 AI Automations and Intelligent Agents  
-🏗️ Software Architecture & System Design
-🧠 Machine Learning & AI Applications
-☁️ Cloud Technologies & Backend Systems
-🔒 Cybersecurity & Traffic Filtering
-🌐 IoT & Smart Product Development
-💼 E-commerce & Digital Platforms
-🌍 Open Source Contribution & Community Building
+---
+
+## 🎯 What I care about
+
+```text
+🏗️ Building scalable Flutter apps (architecture + DX)
+🧭 Navigation, localization, design systems & smooth UX
+⚙️ CI/CD and release engineering (fast + safe shipping)
+🔐 Secure networking patterns & reliability tooling
+🤝 Open-source communities, mentoring, and governance
+🧠 Applied ML: practical prototypes that ship
 ```
 
-## 🏆 Achievements & Recognition
+---
 
-- 🎖️ **Certificate of Honor** - Outstanding Academic Performance
-- 🚀 **Startup.dz Recognition** - DZPARTS Official Startup Label
-- 📜 **Certified** - Profitable App Development Blueprint (Udemy)
-- 🎓 **Research Excellence** - 98% Accuracy ML Healthcare Model
-- 💼 **3+ Years** Professional Flutter Development Experience
-
-## 🗣️ Languages
-
-- 🇩🇿 **Arabic:** Native
-- 🇺🇸 **English:** Professional
-- 🇫🇷 **French:** Basic
-
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Let’s Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdelghani-djedidi/" target="_blank">
@@ -148,7 +168,7 @@ I'm a passionate **Mobile Application Developer** with **3+ years of Flutter dev
   <a href="mailto:abdelghanidjedidi7@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="45" alt="Gmail"/>
   </a>
-  <a href="https://abdelghanidjedidi.vercel.app/" target="_blank">
+  <a href="https://abdelghanidjedidi.netlify.app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="60" height="45" alt="Portfolio"/>
   </a>
   <a href="https://github.com/AbdelghaniDjedidi2001" target="_blank">
@@ -156,10 +176,17 @@ I'm a passionate **Mobile Application Developer** with **3+ years of Flutter dev
   </a>
 </div>
 
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelghaniDjedidi2001&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true" alt="Activity Graph"/>
+</div>
+
+<!-- cool animation (requires workflow in your repo to generate the SVG) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
@@ -169,9 +196,9 @@ I'm a passionate **Mobile Application Developer** with **3+ years of Flutter dev
 </div>
 
 <div align="center">
-  
-**💡 "Turning innovative ideas into scalable mobile solutions"**
-  
-*Open to collaboration on exciting Flutter projects, AI applications, and startup ventures!*
+
+**💡 “Turning ideas into scalable mobile products — with clean architecture and reliable delivery.”**
+
+*Open to collaboration on Flutter apps, CI/CD improvements, and open-source initiatives.*
 
 </div>
