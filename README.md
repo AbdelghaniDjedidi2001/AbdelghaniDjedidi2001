@@ -66,19 +66,21 @@ Open the files, play **Bug Hunt**, run the hire wizard, or type `sudo rm -rf /` 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelghaniDjedidi2001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=0D1117" height="175" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelghaniDjedidi2001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" height="175" alt="Top languages"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Contributions and profile details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelghaniDjedidi2001&theme=tokyonight&hide_border=true&background=0D1117" height="175" alt="Streak stats"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Languages I commit in most"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repositories per language"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="When I commit, Algiers time"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelghaniDjedidi2001&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelghaniDjedidi2001&theme=tokyonight&hide_border=true&background=0D1117" width="70%" alt="Streak stats"/>
 </div>
 
 ---
@@ -176,15 +178,14 @@ Open the files, play **Bug Hunt**, run the hire wizard, or type `sudo rm -rf /` 
 
 ---
 
-## 📈 Contribution activity
+## 🐍 Contribution snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelghaniDjedidi2001&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&area_color=58A6FF&area=true" alt="Activity graph"/>
-</div>
-
-<!-- The snake needs the Platane/snk workflow in this repo to generate the SVG -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelghaniDjedidi2001/AbdelghaniDjedidi2001/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdelghaniDjedidi2001/AbdelghaniDjedidi2001/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/AbdelghaniDjedidi2001/AbdelghaniDjedidi2001/output/github-snake.svg" alt="A snake eating my contribution graph"/>
+  </picture>
 </div>
 
 ---
