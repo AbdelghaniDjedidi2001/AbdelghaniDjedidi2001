@@ -162,18 +162,11 @@ Open the files, play **Bug Hunt**, run the hire wizard, or type `sudo rm -rf /` 
 ## 🤝 Let's connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdelghani-djedidi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="45" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abdelghanidjedidi7@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="45" alt="Email"/>
-  </a>
-  <a href="https://abdelghanidjedidi.netlify.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="60" height="45" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/AbdelghaniDjedidi2001" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="60" height="45" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/abdelghani-djedidi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:abdelghanidjedidi7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://abdelghanidjedidi.netlify.app"><img src="https://img.shields.io/badge/Portfolio-03121B?style=for-the-badge&logo=retroarch&logoColor=86E4FF" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1N_9W1Hae__jpLozo4Lc7A7cEgZ8uYd59/view?usp=sharing"><img src="https://img.shields.io/badge/CV-1A73E8?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV"/></a>
+  <a href="https://github.com/AbdelghaniDjedidi2001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 ---
