@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Mobile+%26+Backend;3%2B+years+shipping+products+end+to+end;13K%2B+installs+on+a+production+app;Flutter+%7C+FastAPI+%7C+Supabase+%7C+PostgreSQL;CI%2FCD+%7C+GitHub+Actions+%7C+Fastlane;Creator+of+FlutCanvas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Mobile+%26+Backend;3%2B+years+shipping+products+end+to+end;63k%2B+installs+on+a+production+app;Flutter+%7C+FastAPI+%7C+Supabase+%7C+PostgreSQL;CI%2FCD+%7C+GitHub+Actions+%7C+Fastlane;Creator+of+FlutCanvas" alt="Typing SVG" />
 
   <br/>
 
@@ -33,7 +33,7 @@ Most of my work is in **Flutter**, with **FastAPI**, **Supabase** and **PostgreS
 
 <div align="center">
 
-🔭 **Now:** Flutter Developer @ **Ayor**, shipping a production e-commerce operations app (13K+ installs)
+🔭 **Now:** Flutter Developer @ **Ayor**, shipping a production e-commerce operations app (63k+ installs)
 🎨 **Building:** [FlutCanvas](https://github.com/AbdelghaniDjedidi2001/FlutCanvas), an open-source infinite whiteboard with AI text-to-diagram
 🌍 **Recently:** led 46+ contributors and 8 mentors on **elFulk** @ **SATR-ATM**
 🎓 **Research:** MSc thesis on cough-based disease classification with machine learning
@@ -133,7 +133,7 @@ Open the files, play **Bug Hunt**, run the hire wizard, or type `sudo rm -rf /` 
 <details>
   <summary><b>📌 Experience (tap to expand)</b></summary>
 
-- **Ayor** (Nov 2025 – present): Flutter Developer. Production e-commerce operations app with 13K+ installs; automated releases, feature-first architecture, single-flight token refresh.
+- **Ayor** (Nov 2025 – present): Flutter Developer. Production e-commerce operations app with 63k+ installs; automated releases, feature-first architecture, single-flight token refresh.
 - **SATR-ATM** (Dec 2025 – Aug 2026): Open Source Project Lead & Mentor. Led 46+ contributors and 8 mentors on elFulk across 4 workstreams.
 - **Aynaa** (Sep – Dec 2025): Mobile Developer (volunteer). Child learning app on Supabase with Row-Level Security and Edge Functions.
 - **Babylone Creative Agency** (Apr – Aug 2025): Software & Mobile Developer. 5+ client apps from one Melos mono-repo with CI.
