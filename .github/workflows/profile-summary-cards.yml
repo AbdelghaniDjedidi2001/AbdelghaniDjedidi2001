@@ -1,0 +1,25 @@
+# Builds the GitHub activity cards and saves them in this repo,
+# so the README images never depend on a public server.
+name: Profile summary cards
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # The default token only sees public activity. To include private
+          # contributions, create a personal access token, save it as a repo
+          # secret named SUMMARY_CARDS_TOKEN, and use it here instead.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 1               # Algiers time, for the "productive time" card
