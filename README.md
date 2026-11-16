@@ -50,7 +50,7 @@ Open the files, play **Bug Hunt**, run the hire wizard, or type `sudo rm -rf /` 
 
 <div align="center">
 
-**[▶ Boot it](https://abdelghanidjedidi.netlify.app)** &nbsp;•&nbsp; **[📄 Quick version](https://abdelghanidjedidi.netlify.app/#quick)** &nbsp;•&nbsp; **[📥 CV](https://drive.google.com/file/d/1N_9W1Hae__jpLozo4Lc7A7cEgZ8uYd59/view?usp=sharing)**
+**[▶ Boot it](https://abdelghanidjedidi.com)** &nbsp;•&nbsp; **[📄 Quick version](https://abdelghanidjedidi.com/about/)** &nbsp;•&nbsp; **[📥 CV](https://drive.google.com/file/d/1N_9W1Hae__jpLozo4Lc7A7cEgZ8uYd59/view?usp=sharing)**
 
 </div>
 
