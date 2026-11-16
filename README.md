@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abdelghani Djedidi
+# Hi there! 👋 I'm Abdelghani Djedidi — aka Ghanou
 
 <div align="center">
   <!-- keep your animation -->
